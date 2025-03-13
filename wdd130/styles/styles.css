@@ -1,0 +1,10 @@
+nav {
+    background-color: blue;
+    padding: 10px;
+}
+
+nav a {
+    color: antiquewhite;
+    display: block;
+    padding: 20px;
+}
