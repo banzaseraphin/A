@@ -16,3 +16,18 @@ img {
     padding: 2px;
     box-shadow: 0 0 30px gray;
 }
+
+h1 {
+    color: rgb(58, 58, 234);
+}
+
+nav {
+    background-color: rgb(173, 80, 3);
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    display: block;
+    padding: 20px;
+}
